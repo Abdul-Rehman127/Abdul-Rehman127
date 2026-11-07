@@ -23,7 +23,7 @@ $ cat interests.txt
 > penetration testing    > multi-agent systems     > breaking things (safely)
 
 $ status --current
-- Software Engineering Intern @ Cisco (Summer 2026)
+- Former Software Engineering Intern @ Cisco (Summer 2026)
 - Building IdleDiggers, a physics-based iOS game (SpriteKit + SwiftUI)
 - Freelance web app pentesting & vulnerability assessment
 - Undergrad research on decentralized cooperative coevolution
@@ -66,7 +66,7 @@ $ status --current
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman127&theme=radical&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6" />
+  <img src="https://streak-stats.demolab.com/?user=Abdul-Rehman127&theme=radical&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ $ status --current
 | Project | What it is |
 |---|---|
 | **IdleDiggers** | A hybrid idle/physics iOS game built solo end to end — SpriteKit physics, SwiftUI, Combine, Firebase |
-| **Cybersecurity Pentesting Platform** | A web-based training platform modeled on OWASP vulnerability standards for hands-on practice |
+| **[Cybersecurity Pentesting Platform](https://github.com/Abdul-Rehman127/pentesting-app)** | A web-based training platform modeled on OWASP vulnerability standards for hands-on practice |
 
 ---
 
