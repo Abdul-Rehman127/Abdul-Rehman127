@@ -80,7 +80,7 @@ $ status --current
 | Project | What it is |
 |---|---|
 | **IdleDiggers** | A hybrid idle/physics iOS game built solo end to end — SpriteKit physics, SwiftUI, Combine, Firebase |
-| **Cybersecurity Pentesting Platform** | A web-based training platform modeled on OWASP vulnerability standards for hands-on practice |
+| **[Cybersecurity Pentesting Platform](https://github.com/Abdul-Rehman127/pentesting-app)** | A web-based training platform modeled on OWASP vulnerability standards for hands-on practice |
 
 ---
 
